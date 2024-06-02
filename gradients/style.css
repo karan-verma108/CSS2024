@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  background: linear-gradient(
+      to top right,
+      rgba(255, 255, 0, 0.393),
+      rgba(61, 217, 61, 0.481),
+      rgba(255, 166, 0, 0.421),
+      rgba(255, 0, 0, 0.448)
+    ),
+    url('https://media.wired.com/photos/61f48f02d0e55ccbebd52d15/3:2/w_2400,h_1600,c_limit/Gear-Rant-Game-Family-Plans-1334436001.jpg');
+  background-size: cover;
+}
